@@ -1,0 +1,6 @@
+condomino_email,condomino_nome,descrizione,importo,data_scadenza,stato
+mario.rossi@example.com,Mario Rossi,Rata ordinaria marzo 2026,150.0,2026-03-31,non pagato
+lucia.bianchi@example.com, Lucia Bianchi,Pulizia scale straordinaria,80.5,2026-03-28,non pagato
+anna.verdi@example.com,Anna Verdi,Rata ordinaria aprile 2026,150.0,2026-04-05,pagato
+giusepperomeo029@gmail.com,Test Condominio,Test automazione,10.0,2026-04-11,non pagato
+giusepperomeo029@gmail.com,Giuseppe,scale,35.0,2026-04-13,non pagato

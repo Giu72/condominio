@@ -1,0 +1,23 @@
+2026-04-09 14:31:37 - INFO - === Avvio script promemoria scadenze ===
+2026-04-09 14:31:37 - INFO - Nessun promemoria da inviare oggi.
+2026-04-09 14:35:28 - INFO - === Avvio script promemoria scadenze ===
+2026-04-09 14:35:29 - ERROR - Errore invio a giuseppe.romeo72@gmail.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-488cd0eaeecsm23827475e9.8 - gsmtp')
+2026-04-09 14:35:29 - INFO - Promemoria inviati: 0 su 1
+2026-04-09 14:35:29 - INFO - === Fine script ===
+
+2026-04-09 14:36:32 - INFO - === Avvio script promemoria scadenze ===
+2026-04-09 14:36:32 - ERROR - Errore invio a giusepperomeo029@gmail.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-488cd1bb76dsm77881545e9.8 - gsmtp')
+2026-04-09 14:36:32 - INFO - Promemoria inviati: 0 su 1
+2026-04-09 14:36:32 - INFO - === Fine script ===
+
+2026-04-09 14:47:08 - INFO - === Avvio script promemoria scadenze ===
+2026-04-09 14:47:09 - INFO - Inviato a giusepperomeo029@gmail.com - Test automazione
+2026-04-09 14:47:09 - INFO - Promemoria inviati: 1 su 1
+2026-04-09 14:47:09 - INFO - === Fine script ===
+
+2026-04-09 15:27:33 - INFO - === Avvio script promemoria scadenze ===
+2026-04-09 15:27:34 - INFO - Inviato a giusepperomeo029@gmail.com - Test automazione
+2026-04-09 15:27:36 - INFO - Inviato a giusepperomeo029@gmail.com - scale
+2026-04-09 15:27:36 - INFO - Promemoria inviati: 2 su 2
+2026-04-09 15:27:36 - INFO - === Fine script ===
+

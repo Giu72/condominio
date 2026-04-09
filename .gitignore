@@ -1,0 +1,11 @@
+@"
+config.json
+promemoria_log.txt
+__pycache__/
+*.pyc
+*.log
+venv/
+.env
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8
